@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/daipo1234/dodaland_management
+	fetch = +refs/*:refs/*
+	mirror = true
+	pushurl = https://github.com/iwsolution/dodaland_app_management
