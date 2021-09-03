@@ -22,7 +22,4 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = firebase.initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
-
-console.log(app.name);
-
 console.log('test');
